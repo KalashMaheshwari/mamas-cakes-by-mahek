@@ -1,0 +1,77 @@
+================================================================================
+MUMMA'S CAKES BY MAHEK - COPY REVIEW FILE
+================================================================================
+Below is the extracted copy from the specific sections requested. Please review
+and provide any changes you would like us to make.
+
+--------------------------------------------------------------------------------
+1. HERO / CTA SECTION
+--------------------------------------------------------------------------------
+Headline (H1): 
+"Turn your baking formulas into a profitable empire."
+(Note: 'formulas' rolls through 'passion', 'artistry', 'formulas', 'skills', 'recipes')
+
+Subheadline: 
+"Expert-led masterclasses and proven business blueprints to start, scale, and succeed in the high-end pastry industry. Join 30,000+ thriving entrepreneurs."
+
+Primary CTA Button: 
+"Explore Masterclasses"
+
+Secondary CTA Link: 
+"View Cake Artistry"
+
+Social Proof Text: 
+"30K+ Students" | "4.7/5 Rating"
+
+
+--------------------------------------------------------------------------------
+2. COURSE CATALOG (Academy Courses)
+--------------------------------------------------------------------------------
+Section Title: 
+"Master the Craft of Business"
+
+Category Tabs: 
+All, Baking Business, Specialized Techniques, Signature Masterclass
+
+Course 1:
+Title: "The Six-Figure Bakery Blueprint"
+Description: "A complete step-by-step framework to launch, brand, and scale a premium home bakery."
+Pricing: "₹14,999" (Original: ₹25,000)
+Enroll CTA: "Details" -> "Enroll Now"
+
+Course 2:
+Title: "Advanced Fondant Sculpting"
+Description: "Master gravity-defying structures, seamless draping, and hyper-realistic sugar art techniques."
+Pricing: "₹8,500" (Original: ₹12,000)
+Enroll CTA: "Details" -> "Enroll Now"
+
+Course 3:
+Title: "French Macarons & Petit Fours"
+Description: "The ultimate guide to consistent, perfect macarons and delicate French pastries for luxury menus."
+Pricing: "₹5,200"
+Enroll CTA: "Details" -> "Enroll Now"
+
+Course 4:
+Title: "Vegan & Gluten-Free Mastery"
+Description: "Formulate exquisite, allergy-friendly bakes that taste completely indistinguishable from traditional recipes."
+Pricing: "₹6,000" (Original: ₹9,000)
+Enroll CTA: "Details" -> "Enroll Now"
+
+
+--------------------------------------------------------------------------------
+3. ORDERING FLOW / WHATSAPP CTA
+--------------------------------------------------------------------------------
+Floating Button Action:
+"Order via WhatsApp"
+
+Pre-filled WhatsApp Message (Sent to Mahek's Team):
+"Hi Mahek's team! I'd like to inquire about ordering a custom cake..."
+
+Inquiry Form (Contact/Brief Form):
+Title: "File a Brief"
+Subtitle: "Bespoke requirements or custom workshops? Let's draft the blueprints."
+Fields: "Your Full Name", "Email Address"
+Options: "Cake Order", "Workshop Inquiry", "Collaboration", "General"
+Message Box: "Project Details / Requirements"
+Submit Button: "Dispatch Brief"
+Success State: "Brief Dispatched. We have logged your inquiry. Mahek's team will analyze the details and reach back with blueprints within 24 hours."
