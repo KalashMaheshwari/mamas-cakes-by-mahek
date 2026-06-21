@@ -95,7 +95,7 @@ export default function App() {
             href="https://wa.me/918598198765?text=Hi%20Mahek's%20team!%20I'd%20like%20to%20inquire%20about%20ordering%20a%20custom%20cake..."
             target="_blank"
             rel="noopener noreferrer"
-            className="fixed bottom-6 right-6 md:bottom-10 md:right-10 z-[100] bg-plum text-cream p-3.5 md:p-4 rounded-full shadow-[0_10px_30px_rgba(99,35,87,0.4)] hover:scale-110 hover:shadow-[0_15px_40px_rgba(99,35,87,0.6)] border border-plum/20 transition-all duration-300 flex items-center justify-center group"
+            className="fixed bottom-6 right-6 md:bottom-10 md:right-10 z-[100] bg-white/70 backdrop-blur-xl text-plum p-3.5 md:p-4 rounded-full shadow-[0_8px_32px_rgba(99,35,87,0.15)] border border-white hover:bg-white/90 hover:scale-110 hover:shadow-[0_15px_40px_rgba(99,35,87,0.25)] transition-all duration-300 flex items-center justify-center group"
             aria-label="Inquire via WhatsApp"
           >
             <svg
