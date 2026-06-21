@@ -1,0 +1,97 @@
+@import "tailwindcss";
+
+@theme {
+  /* Flat, premium purple and white color palette */
+  --color-cream: #FFFFFF;
+  --color-plum: #632357;
+  --color-mauve: #94618E;
+  --color-surface-white: #FFFFFF;
+
+  --font-serif: "Instrument Serif", Georgia, serif;
+  --font-sans: "Inter", system-ui, sans-serif;
+  --font-display: "Dancing Script", cursive;
+
+  --ease-editorial: cubic-bezier(0.76, 0, 0.24, 1);
+  --ease-bouncy: cubic-bezier(0.68, -0.55, 0.265, 1.55);
+  
+  --animate-marquee: marquee 30s linear infinite;
+  --animate-marquee-reverse: marquee-reverse 30s linear infinite;
+  --animate-slow-zoom: slow-zoom 20s ease-out infinite alternate;
+
+  @keyframes marquee {
+    0% {
+      transform: translateX(0%);
+    }
+    100% {
+      transform: translateX(-50%);
+    }
+  }
+  @keyframes marquee-reverse {
+    0% {
+      transform: translateX(-50%);
+    }
+    100% {
+      transform: translateX(0%);
+    }
+  }
+  @keyframes slow-zoom {
+    0% {
+      transform: scale(1.02);
+    }
+    100% {
+      transform: scale(1.12);
+    }
+  }
+}
+
+/* Base Styles & Utility overrides */
+body {
+  background-color: #FFFFFF;
+  color: #111111; /* Deep flat black text */
+  font-family: "Inter", sans-serif;
+  overflow-x: hidden;
+  position: relative;
+}
+
+/* Custom Selection style for luxury feel */
+::selection {
+  background-color: #94618E;
+  color: #FFFFFF;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #FFFFFF;
+}
+::-webkit-scrollbar-thumb {
+  background: #94618E;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #632357;
+}
+
+/* Custom styles for high contrast serif headers overlay transition */
+.line-reveal {
+  overflow: hidden;
+}
+
+/* Lenis Recommended CSS for smooth scrolling */
+html.lenis, html.lenis body {
+  height: auto;
+}
+.lenis.lenis-smooth {
+  scroll-behavior: auto !important;
+}
+.lenis.lenis-smooth [data-lenis-prevent] {
+  overscroll-behavior: contain;
+}
+.lenis.lenis-stopped {
+  overflow: hidden;
+}
+.lenis.lenis-smooth iframe {
+  pointer-events: none;
+}
