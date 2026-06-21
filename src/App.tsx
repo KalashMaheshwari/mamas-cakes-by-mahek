@@ -95,8 +95,8 @@ export default function App() {
             href="https://wa.me/918598198765?text=Hi%20Mahek's%20team!%20I'd%20like%20to%20inquire%20about%20ordering%20a%20custom%20cake..."
             target="_blank"
             rel="noopener noreferrer"
-            className="fixed bottom-6 right-6 md:bottom-10 md:right-10 z-[100] bg-[#25D366] text-white p-3.5 md:p-4 rounded-full shadow-[0_10px_30px_rgba(37,211,102,0.4)] hover:scale-110 hover:shadow-[0_15px_40px_rgba(37,211,102,0.6)] transition-all duration-300 flex items-center justify-center group"
-            aria-label="Order via WhatsApp"
+            className="fixed bottom-6 right-6 md:bottom-10 md:right-10 z-[100] bg-plum text-cream p-3.5 md:p-4 rounded-full shadow-[0_10px_30px_rgba(99,35,87,0.4)] hover:scale-110 hover:shadow-[0_15px_40px_rgba(99,35,87,0.6)] border border-plum/20 transition-all duration-300 flex items-center justify-center group"
+            aria-label="Inquire via WhatsApp"
           >
             <svg
               className="w-7 h-7 md:w-8 md:h-8 fill-current"
@@ -107,8 +107,8 @@ export default function App() {
             </svg>
             
             {/* Tooltip */}
-            <span className="absolute right-full mr-4 bg-white text-plum text-xs font-semibold px-3 py-2 rounded-lg shadow-xl opacity-0 group-hover:opacity-100 transition-opacity duration-300 pointer-events-none whitespace-nowrap hidden md:block">
-              Order a Custom Cake
+            <span className="absolute right-full mr-4 bg-white text-plum text-[11px] uppercase tracking-widest font-bold px-4 py-2 rounded-lg shadow-xl opacity-0 group-hover:opacity-100 transition-opacity duration-300 pointer-events-none whitespace-nowrap hidden md:block">
+              Inquire
             </span>
           </a>
 
