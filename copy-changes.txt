@@ -1,5 +1,5 @@
 ================================================================================
-MUMMA'S CAKES BY MAHEK - COPY REVIEW FILE
+MUMMA'S CAKES BY MAHEK - FINAL COPY REVIEW FILE
 ================================================================================
 Below is the extracted copy from the specific sections requested. Please review
 and provide any changes you would like us to make.
@@ -61,8 +61,8 @@ Enroll CTA: "Details" -> "Enroll Now"
 --------------------------------------------------------------------------------
 3. ORDERING FLOW / WHATSAPP CTA
 --------------------------------------------------------------------------------
-Floating Button Action:
-"Order via WhatsApp"
+Floating Button Hover Tooltip:
+"INQUIRE"
 
 Pre-filled WhatsApp Message (Sent to Mahek's Team):
 "Hi Mahek's team! I'd like to inquire about ordering a custom cake..."
